@@ -1,0 +1,14 @@
+C:\Users\ACER NITRO\Desktop\c#\week1\PersonalDetails\obj\Debug\net10.0\PersonalDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER NITRO\Desktop\c#\week1\PersonalDetails\obj\Debug\net10.0\PersonalDetails.AssemblyInfoInputs.cache
+C:\Users\ACER NITRO\Desktop\c#\week1\PersonalDetails\obj\Debug\net10.0\PersonalDetails.AssemblyInfo.cs
+C:\Users\ACER NITRO\Desktop\c#\week1\PersonalDetails\obj\Debug\net10.0\PersonalDetails.csproj.CoreCompileInputs.cache
+C:\Users\ACER NITRO\Desktop\c#\week1\PersonalDetails\bin\Debug\net10.0\PersonalDetails.exe
+C:\Users\ACER NITRO\Desktop\c#\week1\PersonalDetails\bin\Debug\net10.0\PersonalDetails.deps.json
+C:\Users\ACER NITRO\Desktop\c#\week1\PersonalDetails\bin\Debug\net10.0\PersonalDetails.runtimeconfig.json
+C:\Users\ACER NITRO\Desktop\c#\week1\PersonalDetails\bin\Debug\net10.0\PersonalDetails.dll
+C:\Users\ACER NITRO\Desktop\c#\week1\PersonalDetails\bin\Debug\net10.0\PersonalDetails.pdb
+C:\Users\ACER NITRO\Desktop\c#\week1\PersonalDetails\obj\Debug\net10.0\PersonalDetails.dll
+C:\Users\ACER NITRO\Desktop\c#\week1\PersonalDetails\obj\Debug\net10.0\refint\PersonalDetails.dll
+C:\Users\ACER NITRO\Desktop\c#\week1\PersonalDetails\obj\Debug\net10.0\PersonalDetails.pdb
+C:\Users\ACER NITRO\Desktop\c#\week1\PersonalDetails\obj\Debug\net10.0\PersonalDetails.genruntimeconfig.cache
+C:\Users\ACER NITRO\Desktop\c#\week1\PersonalDetails\obj\Debug\net10.0\ref\PersonalDetails.dll
